@@ -1,0 +1,21 @@
+Dog
+Cat
+Frog
+Snake
+Cow
+Ant
+Bee
+Wolf
+Cayote
+Fox
+Bear
+Polar Bear
+Giraffe
+Elephant
+Hippo
+Cheetah
+Lion
+Tiger
+Chinchilla
+Squirrel
+Chipmunk
